@@ -4,7 +4,7 @@
 
 -Gradle
 
-Clases principales:
+## Clases principales:
 lib/src/main/java/MailDownloader_MS 
 - App.java
 - Authentication.java
