@@ -2,6 +2,7 @@
 
 ## Requerimientos:
 
+-Eclipse IDE
 -Gradle
 
 ## Clases principales:
