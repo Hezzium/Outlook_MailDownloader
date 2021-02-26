@@ -2,8 +2,8 @@
 
 ## Requerimientos:
 
--Eclipse IDE
--Gradle
+- Eclipse IDE
+- Gradle
 
 ## Clases principales:
 lib/src/main/java/MailDownloader_MS 
